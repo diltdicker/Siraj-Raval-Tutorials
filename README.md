@@ -1,0 +1,6 @@
+Siraj Raval Tutorials
+---
+
+
+1. [intro_to_deep_learning_1](intro_to_deep_learning_1/Intro_to_Deep_Learning_1_-_How_to_Do_Linear_Regression_using_Gradient_Descent.ipynb)
+2. [intro_to_deep_learning_2](intro_to_deep_learning_2/Intro_to_deep_learning_2_-_How_to_Use_Tensorflow_for_Classification.ipynb)
