@@ -1,0 +1,11 @@
+tensorflow
+torch
+torchvision
+jupyterlab
+imageio
+matplotlib
+pandas
+sklearn
+nltk
+gensim
+seaborn
